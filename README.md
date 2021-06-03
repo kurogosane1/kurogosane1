@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, Data Structures and Algorithms**
 
-- 📫 How to reach me **syedskhurshid@gmail.com**
+- Visit my site 
 
 - ⚡ Fun fact **I an Accountant also**
 
